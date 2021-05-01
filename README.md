@@ -1,7 +1,7 @@
 # mahfuz-bank
 
 <a href="https://rjmahfuztech.github.io/mahfuz-bank/">
-  <img src="bank.JPG">
+  <img width="100%" height="100%" src="bank.JPG">
 </a>
 
 ### visit website [https://rjmahfuztech.github.io/mahfuz-bank/](https://rjmahfuztech.github.io/mahfuz-bank/)
